@@ -1,3 +1,4 @@
+![logo](https://github.com/zeelshah1805/zeelshah1805/blob/main/bg.png)
 <h1 align="center">Hi 👋, I'm Zeel Shah!</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
